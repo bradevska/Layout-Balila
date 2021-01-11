@@ -1,0 +1,222 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("Pozadinska\ slika.jpg");
+    line-height: 1.4em;
+    margin:0px;
+}
+.main  {
+    width: 904px;
+    height: 400px;
+    margin:-20px auto;
+    background-color: white;    
+}
+.balila1 {
+    width: 890px;
+    height: 385px;
+    margin: 0px 5px;
+}
+header {
+    width: 940px;
+    margin-top:20px;
+    margin-left:550px;
+}
+nav {
+    position:relative;
+    top:0px;
+    background-color: #eb2222;
+    width: 904px;
+    height: 70px;
+    margin: 20px auto;
+}
+nav ul {
+    margin: 0px;
+    padding: 5px 5px;
+    list-style-type: none;
+}
+nav li {
+    display: inline;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 5px;
+    color:white;
+    font-size: x-large;
+    margin-top: 30px;
+}
+nav img {
+    width: 30px;
+    height: 30px;
+    float: right;
+}
+a {
+    text-decoration: none;
+}
+nav li a {
+    color: white;
+}
+.mainmeni {
+    width: 910px;
+    overflow: hidden;
+    padding: 5px 0;
+    margin:30px auto;
+    background-color: white;
+}
+.box {
+    width:226px;
+    float: left;
+    margin-left: -1px;
+    border-left: #ddd 1px solid;
+}
+.box img {
+    margin: 0 7px 0 -3px;
+}
+.img {
+    float: left;
+
+}
+h2 {
+    line-height: 37px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(235, 68, 68);
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size:smaller;
+    top:3px;
+    left:-7px;
+    
+}
+.read-on {
+    display: block;
+    float: right;
+    padding-left: 9px;
+    margin-right: 7px;
+    background-color: rgb(230, 75, 75);
+}
+.read-on a{
+    color: #fff;
+    padding-right: 25px;
+    margin-right: -5px;
+    height: 18px;
+    display: block;
+    font: 10px/20px Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    text-shadow: 1px 1px 0 #000;
+}
+footer {
+    margin:-30px auto;
+    width:910px;
+    text-align: left;
+    overflow: hidden;
+    background-color:black;
+}
+footer .letter {
+    float:left;
+}
+.letter {
+    width:260px;
+    margin:5px 17px 0;
+}
+footer .letter-head h3{
+    font-size: 16px; 
+    font-family: Arial,Helvetica,sans-serif;
+    color: #e3e3e3;
+    text-shadow: 1px 1px 0 #000;
+    letter-spacing: -1px;
+    height: 34px;
+    margin: 0;
+    position: relative;
+    border-bottom: #171717 1px solid;
+}
+footer .leter-head img {
+    position:absolute;
+    bottom: 0;
+    left: 30px;
+}
+footer .letter-in {
+    border-top: #383838 1px solid;
+    padding-top: 16px;
+}
+footer .letter-in form {
+    padding-top: 4px;
+}
+form p {
+    margin-top: -10px;
+}
+footer .letter-in label {
+    color: #d9d9d9;
+    width: 82px;
+    float: left;
+    padding-top: 5px;
+    margin-top: -13px;
+}
+footer .letter-in input {
+    width: 168px;
+}
+input {
+    height: 27px;
+}
+textarea {
+    height: 85px;
+    overflow: auto;
+}
+footer .letter in input,footer .letter-in textarea{
+    width: 170px;
+}
+textarea {
+    height: 85px;
+    overflow: auto;
+}
+.submit {
+    margin-top: 10px;
+    background: rgb(3, 3, 148);
+    display: block;
+    border-radius: 5px;
+    float: right;
+    padding-left: 9px;
+    margin: 2px 5px 0 0;
+}
+.submit input {
+    padding: 1px 25px 4px 0;
+    margin-right: 0px;
+    height: 25px;
+    float: left;
+    display: block;
+    font: bold 20px "Arial,Helvetica,sans-serif";
+    text-decoration: none;
+}
+.letter-in p {
+    margin-top: 16px;
+    font-style: italic;
+    color: white;
+}
+.name{
+    margin-top: 10px;
+    color: white;
+    font-size: 12px;
+}
+.end {
+    width: 870px;
+    margin: 50px auto 0;
+    padding-bottom: 30px;
+    clear: both;
+    color: #fff;
+}
+.div ul {
+    list-style-type: none;
+    font-size:x-small;
+    float: right;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
